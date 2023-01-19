@@ -1,0 +1,148 @@
+print() is used to display a message
+#   comment
+
+Why python??
+syntax is easy
+tkinter-GUI
+OOPs
+
+comments
+----------------
+single line comment
+multi line comment
+
+Datatypes
+---------------------
+Numeric----Integer,float,complex number
+Mappint type-Dictionary
+Boolean-bool
+Set type-set,frozenset
+Sequence Type-String,List,Tuple,range
+Text type-str
+Binary types-bytes,bytearray,memoryview
+None types
+
+
+Integer,Float
+Dictionary,List,Tuple,Set-Python Collections
+
+a=10
+
+Arthimetic Operators
+-----------------------------
++
+-
+*
+/
+%-Modulus or mod opertor-to find reminder
+//-floor division
+**-exponential or power
+
+===============================================================
+
+
+Python
+----------------
+Dynamic programming Language
+num=10
+Syntax easy
+1991
+Gudio Van Rossum
+
+Python-Django
+
+
+Web APplication
+==================
+Frontend-UI-HTML,CSS,JS,Bootstrap
+Backend- Database-Mysql,SQlite
+        Processing-programming-Python-Django
+
+Python 3.*
+Pycharm IDE,Vs code,SUblime text
+
+.py
+
+
+
+
+
+=======================================
+Flow Control Statements
+-----------------------------------------------
+1.Decision Making stmts / Conditional stmts
+-------------------------
+if stmt
+-------------------------
+if(condition):
+    statment/if body
+
+
+if..else
+-----------------------------------
+if(condition):
+    if body
+else:
+    else body
+
+
+
+
+if..elif..else
+--------------------------------------
+if(condition):
+    if body
+elif(condition):
+    elif body
+elif(condition):
+    elif body
+else:
+    else body
+
+
+
+
+
+
+
+
+2.Looping stmts
+------------------------------
+iteration stmts
+
+While loop
+-----------------------------------
+Syntax:
+------------------------------
+intialize
+while(condition):
+    while loop body
+    increment/decrement
+
+
+
+for loop
+Jump Stmts
+
+
+Git
+---------------
+1.Sign up on: https://github.com/
+2.Download git for windows https://git-scm.com/download/win
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
